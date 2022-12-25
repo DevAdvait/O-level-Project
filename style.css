@@ -1,0 +1,36 @@
+.navbar-brand{
+    width:3em;
+}
+
+.collapse{
+    margin:0 0 0 30%;
+}   
+.carousel-item{
+    width: 100%;
+    height: 30em;
+}
+.page-content{
+    margin: 1em 3em;
+    text-align: center;
+    font-size: 1.3em;
+    word-spacing: .3em;
+    line-height: 2em;
+}
+footer ul {
+    list-style-type: none;
+    text-align: left;
+    padding-left: 0;
+
+}
+footer a{
+    color: grey;
+    font-weight: 800;
+    text-decoration: none;
+
+}
+.row .col-3 h5{
+    font-weight: 800;
+}
+.last-section{
+    text-align: center;
+}
